@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "636801539514",
+    "firebase_url": "https://aracqr.firebaseio.com",
+    "project_id": "aracqr",
+    "storage_bucket": "aracqr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636801539514:android:1aa54916ea657ef8",
+        "android_client_info": {
+          "package_name": "com.flatco.aracqr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636801539514-g6id7f6geg9171uju4l33vuh9anrio5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYaKalZv1O7ArftxnUqoTWa9HzsbR1DiU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
